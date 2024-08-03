@@ -164,5 +164,12 @@ Looking at the total number of posts by reaction type, heart have the highest po
 Present your powerpoint presentation to the client and deliver the insights of your analysis click here to see the presentation.
 Present your powerpoint presentation to the client and deliver the insights of your analysis [click here to see the presentation.](https://github.com/mdtaarique/Accenture-Virtual-Internship/blob/87b5361111539d862c56eb483cbb8810c650cdad/Task%203-3.Presentation.pdf)
 
-#### Insight:
-In the top 5 categories food is the common theme with 'Healthy Eating' ranking the highest. This is the indication to the audience within the user base. We suggest you could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+#### Conclusion:
+
+I tackled this task and found the top 5 most popular categories as asked, but I also went one step further.
+
+I found that animals and science are the two most popular categories, suggesting that users like “real-life” and “factual” content.
+
+I also found that food was a common theme amongst popular content and the most popular food category was healthy eating. 
+This could be a signal to show the types of people that are using the platform, and you could use this insight to boost engagement even further. 
+For example, you could run a campaign with content focused on this category or work with healthy eating brands to promote content.
