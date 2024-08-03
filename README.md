@@ -90,6 +90,7 @@ Analysis of sample data sets with visualizations to understand the popularity of
 In short, the client wanted to see "An analysis of their content categories showing the top 5 categories with the largest popularity".
 
 ### Task 2: Data Cleaning and Modeling
+Data cleaning is a common and very important task when working with data.
 - Often you won't need all these datasets to find what you're looking for.
 - So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 - After Analysis we got data sets needed to complete analysis:
@@ -104,6 +105,14 @@ Think about how each column might be relevant to the business question you're in
 - changing the data type of some values within a column, and
 - removing columns which are not relevant to this task.
 - Think about how each column might be relevant to the business question you're investigating. If you can't think of why a column may be useful, it may not be worth including it.
+
+  # Create a final data set by merging the three tables together
+  
+ - I use the Reaction table as base table, then first join the relevant columns from Content data set, and then the Reaction Types data set.
+ - I use “VLookUp” formula to merge the three tables together.
+ - The end result to 24,574 rows and 7 columns
+ - ![Screenshot 2024-08-03 215942](https://github.com/user-attachments/assets/266f32c0-f7ce-484f-b4c3-3121a98184bb)
+
 
 After data cleaning as a result we have 3 cleaned data sets i.e., Reaction Types, Reactions and Content.
 
