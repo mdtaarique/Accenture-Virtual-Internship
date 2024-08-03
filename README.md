@@ -8,8 +8,7 @@ Accenture is a leading global professional services company that helps the world
 organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services - creating tangible value at speed and scale.
 
 ### Project File:
-All files related to this internship can be accessible here
-All files related to this internship can be accessible [here](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship)
+All files related to this internship can be accessible [here](https://github.com/mdtaarique/Accenture-Virtual-Internship/tree/main)
 
 ### Certificate:
 ![Certificate of Completion](https://github.com/mdtaarique/Accenture-Virtual-Internship/blob/72f501be2801e5eb97e355d433b5169fa2fe6cb6/accenture_certificate_page-0001.jpg)
@@ -22,10 +21,7 @@ They have scaled quicker than anticipated and need the help of an advisory firm 
 Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. 
 Every day over 100,000 pieces of content, ranging from text, images, videos and GIFs are posted. All of this data is highly unstructured and 
 requires extremely sophisticated and expensive technology to manage and maintain.
-To start our engagement with Social Buzz, Accenture is running a 3 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following:
-· An audit of their big data practice
-· Recommendations for a successful IPO
-· An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
+To start our engagement with Social Buzz, Accenture is running a 2 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following:
 - An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
@@ -35,17 +31,9 @@ The client provided 3 datasets:
 • Content
 • Reactions
 • ReactionTypes
-- Content
-- Reactions
-- ReactionTypes
-- 
+
 Here is the summary of the contents and columns from the datasets:
 #### Content
- • ID: Unique ID of the content that was uploaded (automatically generated)
- • User ID: Unique ID of a user that exists in the User table
- • Type: A string detailing the type of content that was uploaded
- • Category: A string detailing the category that this content is relevant to
- • URL: Link to the location where this content is stored
 -  **ID:** Unique ID of the content that was uploaded (automatically generated)
 -  **User ID:** Unique ID of a user that exists in the User table
 -  **Type:** A string detailing the type of content that was uploaded
@@ -53,41 +41,26 @@ Here is the summary of the contents and columns from the datasets:
 -  **URL:** Link to the location where this content is stored
 
 #### Reaction
- • Content ID: Unique ID of a piece of content that was uploaded
- • User ID: Unique ID of a user that exists in the User table who reacted to this piece of content
- • Type: A string detailing the type of reaction this user gave
- • Datetime: The date and time of this reaction
 -  **Content ID:** Unique ID of a piece of content that was uploaded
 -  **User ID:** Unique ID of a user that exists in the User table who reacted to this piece of content
 -  **Type:** A string detailing the type of reaction this user gave
 -  **Datetime:** The date and time of this reaction
 
 #### ReactionTypes
- • Type: A string detailing the type of reaction this user gave
- • Sentiment: A string detailing whether this type of reaction is considered as positive, negative or neutral
- • Score: This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
 -  **Type:** A string detailing the type of reaction this user gave
 -  **Sentiment:** A string detailing whether this type of reaction is considered as positive, negative or neutral
 -  **Score:** This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
 
 #### Client 'Social Buzz' provided the Data Model:
 ![image](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship/assets/111370672/6628d543-eebd-4264-8549-48992fc00946)
-
 ### Task 1: Project Understanding:
 A data analyst sits between the business and the data.
-· One of Accenture's Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
-· She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
-· Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
-· About Client: Social Buzz
-
 - One of Accenture's Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
 - Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 - About Client: [Social Buzz](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664296994014/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture:
-· Client's Problem that Accenture is tasked to address: The client has reached a massive scale within recent years and does not have the resources internally to handle it.
-· Three requirements that Accenture is tasked to fulfil: Audit of big data practice, recommendations for IPO, analysis of popular content
 
 - Client's Problem that Accenture is tasked to address: The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 - Three requirements that Accenture is tasked to fulfil: Audit of big data practice, recommendations for IPO, analysis of popular content
@@ -100,11 +73,6 @@ A data analyst sits between the business and the data.
 A data analyst sits between the business and the data.
 
 What do we mean by that?
-The Business refers to the client and your internal team members who won't be involved in detailed data analysis.
-They rely on your analysis to make strategic business decisions.
-Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.
-The Data refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.
-
 - The Business refers to the client and your internal team members who won't be involved in detailed data analysis.
 - They rely on your analysis to make strategic business decisions.
 - Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.
@@ -115,20 +83,13 @@ As a Data Analyst at Accenture, you'll get to work across a range of different c
 However, our clients often want accurate results in a tight timeframe. The pace of work is fast and you'll need to get up to speed on new projects as quickly as possible.
 
 Now you know a bit more about the role, let's get back to the project with Social Buzz.
+
 #### Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 In short, the client wanted to see "An analysis of their content categories showing the top 5 categories with the largest popularity".
 
 ### Task 2: Data Cleaning and Modeling
-Often you won't need all these datasets to find what you're looking for.
-So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
-After Analysis we got data sets needed to complete analysis:
-Reaction Score(score is used to quantified the popularity)
-Content ID
-Reaction Types
-Content type
-Category
 - Often you won't need all these datasets to find what you're looking for.
 - So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 - After Analysis we got data sets needed to complete analysis:
@@ -138,9 +99,6 @@ Category
 4. Content type
 5. Category
 #### Data Cleaning:
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
 Think about how each column might be relevant to the business question you're investigating. If you can't think of why a column may be useful, it may not be worth including it.
 - removing rows that have values which are missing,
 - changing the data type of some values within a column, and
