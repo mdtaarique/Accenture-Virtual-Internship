@@ -12,7 +12,7 @@ All files related to this internship can be accessible here
 All files related to this internship can be accessible [here](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship)
 
 ### Certificate:
-![Certificate of Completion](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship/blob/main/certificate.png)
+![Certificate of Completion](https://github.com/mdtaarique/Accenture-Virtual-Internship/blob/72f501be2801e5eb97e355d433b5169fa2fe6cb6/accenture_certificate_page-0001.jpg)
 
 ### Scenario:
 The client company is Social Buzz. Social Buzz was founded by two former engineers from a large social media conglomerate,
