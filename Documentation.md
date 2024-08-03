@@ -8,7 +8,6 @@ Accenture is a leading global professional services company that helps the world
 organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services - creating tangible value at speed and scale.
 
 ### Project File:
-All files related to this internship can be accessible here
 All files related to this internship can be accessible [here](https://github.com/mdtaarique/Accenture-Virtual-Internship/tree/main)
 
 ### Certificate:
@@ -42,19 +41,12 @@ Here is the summary of the contents and columns from the datasets:
 -  **URL:** Link to the location where this content is stored
 
 #### Reaction
- • Content ID: Unique ID of a piece of content that was uploaded
- • User ID: Unique ID of a user that exists in the User table who reacted to this piece of content
- • Type: A string detailing the type of reaction this user gave
- • Datetime: The date and time of this reaction
 -  **Content ID:** Unique ID of a piece of content that was uploaded
 -  **User ID:** Unique ID of a user that exists in the User table who reacted to this piece of content
 -  **Type:** A string detailing the type of reaction this user gave
 -  **Datetime:** The date and time of this reaction
 
 #### ReactionTypes
- • Type: A string detailing the type of reaction this user gave
- • Sentiment: A string detailing whether this type of reaction is considered as positive, negative or neutral
- • Score: This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
 -  **Type:** A string detailing the type of reaction this user gave
 -  **Sentiment:** A string detailing whether this type of reaction is considered as positive, negative or neutral
 -  **Score:** This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
@@ -63,19 +55,12 @@ Here is the summary of the contents and columns from the datasets:
 ![image](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship/assets/111370672/6628d543-eebd-4264-8549-48992fc00946)
 ### Task 1: Project Understanding:
 A data analyst sits between the business and the data.
-· One of Accenture's Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
-· She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
-· Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
-· About Client: Social Buzz
-
 - One of Accenture's Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
 - She has reviewed the brief provided by Social Buzz and has assembled a diverse team of Accenture experts to deliver the project.
 - Mae has scheduled a project kick off call with the internal Accenture project team for tomorrow morning.
 - About Client: [Social Buzz](https://cdn.theforage.com/vinternships/companyassets/T6kdcdKSTfg2aotxT/MsAqi7SNLKw3C6LAr/1664296994014/Data_Analytics%20Client%20Brief.pdf)
 
 #### Task for Accenture:
-· Client's Problem that Accenture is tasked to address: The client has reached a massive scale within recent years and does not have the resources internally to handle it.
-· Three requirements that Accenture is tasked to fulfil: Audit of big data practice, recommendations for IPO, analysis of popular content
 
 - Client's Problem that Accenture is tasked to address: The client has reached a massive scale within recent years and does not have the resources internally to handle it.
 - Three requirements that Accenture is tasked to fulfil: Audit of big data practice, recommendations for IPO, analysis of popular content
