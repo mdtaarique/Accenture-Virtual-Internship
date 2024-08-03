@@ -31,14 +31,14 @@ To start our engagement with Social Buzz, Accenture is running a 2 month initial
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
 
 ### Dataset Summary:
-The client provided 3 datasets:
+The client provided 5 datasets:
 • Content
 • Reactions
 • ReactionTypes
 • Content
 • Reactions
 • ReactionTypes
-
+-
 Here is the summary of the contents and columns from the datasets:
 #### Content
  • ID: Unique ID of the content that was uploaded (automatically generated)
