@@ -4,6 +4,7 @@ This internship helps you to learn data basics such as data cleaning, modelling,
 ### Internship Company:
 ![](https://miro.medium.com/v2/resize:fit:828/format:webp/1*JiN07MFVNNlJoA-_KkI7wA.png)
 
+
 Accenture is a leading global professional services company that helps the world's leading businesses, governments and other 
 organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services - creating tangible value at speed and scale.
 
