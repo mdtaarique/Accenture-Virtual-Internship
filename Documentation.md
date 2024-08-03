@@ -60,7 +60,7 @@ Here is the summary of the contents and columns from the datasets:
 -  **Score:** This is a number calculated by Social Buzz that quantifies how "popular" each reaction is. A reaction type with a higher score should be considered as a more popular reaction
 
 #### Client 'Social Buzz' provided the Data Model:
-![Client 'Social Buzz']()
+![image](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship/assets/111370672/6628d543-eebd-4264-8549-48992fc00946)
 ### Task 1: Project Understanding:
 A data analyst sits between the business and the data.
 · One of Accenture's Managing Directors, Mae Mulligan, is the client lead for Social Buzz.
