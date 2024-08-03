@@ -22,7 +22,7 @@ They have scaled quicker than anticipated and need the help of an advisory firm 
 Due to their rapid growth and digital nature of their core product, the amount of data that they create, collect and must analyze is huge. 
 Every day over 100,000 pieces of content, ranging from text, images, videos and GIFs are posted. All of this data is highly unstructured and 
 requires extremely sophisticated and expensive technology to manage and maintain.
-To start our engagement with Social Buzz, Accenture is running a 3 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following:
+To start our engagement with Social Buzz, Accenture is running a 2 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following:
 · An audit of their big data practice
 · Recommendations for a successful IPO
 · An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
