@@ -9,7 +9,7 @@ organizations build their digital core, optimize their operations, accelerate re
 
 ### Project File:
 All files related to this internship can be accessible here
-All files related to this internship can be accessible [here](https://github.com/SwathiLeninMaruboina/Accenture-Navigating-Numbers-Virtual-Internship)
+All files related to this internship can be accessible [here](https://github.com/mdtaarique/Accenture-Virtual-Internship/tree/main)
 
 ### Certificate:
 ![Certificate of Completion](https://github.com/mdtaarique/Accenture-Virtual-Internship/blob/72f501be2801e5eb97e355d433b5169fa2fe6cb6/accenture_certificate_page-0001.jpg)
