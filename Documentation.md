@@ -23,9 +23,6 @@ Due to their rapid growth and digital nature of their core product, the amount o
 Every day over 100,000 pieces of content, ranging from text, images, videos and GIFs are posted. All of this data is highly unstructured and 
 requires extremely sophisticated and expensive technology to manage and maintain.
 To start our engagement with Social Buzz, Accenture is running a 2 month initial project in order to prove to them that we are the best firm to work with. They are expecting the following:
-· An audit of their big data practice
-· Recommendations for a successful IPO
-· An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
 - An audit of their big data practice
 - Recommendations for a successful IPO
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
@@ -35,17 +32,9 @@ The client provided 5 datasets:
 • Content
 • Reactions
 • ReactionTypes
-• Content
-• Reactions
-• ReactionTypes
--
+
 Here is the summary of the contents and columns from the datasets:
 #### Content
- • ID: Unique ID of the content that was uploaded (automatically generated)
- • User ID: Unique ID of a user that exists in the User table
- • Type: A string detailing the type of content that was uploaded
- • Category: A string detailing the category that this content is relevant to
- • URL: Link to the location where this content is stored
 -  **ID:** Unique ID of the content that was uploaded (automatically generated)
 -  **User ID:** Unique ID of a user that exists in the User table
 -  **Type:** A string detailing the type of content that was uploaded
