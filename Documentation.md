@@ -195,7 +195,7 @@ Looking at the total number of posts by reaction type, heart have the highest po
 
 ### Task 4: Present to the Client
 Present your powerpoint presentation to the client and deliver the insights of your analysis click here to see the presentation.
-Present your powerpoint presentation to the client and deliver the insights of your analysis [click here to see the presentation.](https://drive.google.com/file/d/1VMY-uX9w76sINur_7f5A6S-HTRnnyj3E/view?usp=drive_link)
+Present your powerpoint presentation to the client and deliver the insights of your analysis [click here to see the presentation.](https://github.com/mdtaarique/Accenture-Virtual-Internship/blob/87b5361111539d862c56eb483cbb8810c650cdad/Task%203-3.Presentation.pdf)
 
 #### Insight:
 In the top 5 categories food is the common theme with 'Healthy Eating' ranking the highest. This is the indication to the audience within the user base. We suggest you could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
