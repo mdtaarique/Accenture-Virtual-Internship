@@ -73,11 +73,6 @@ A data analyst sits between the business and the data.
 A data analyst sits between the business and the data.
 
 What do we mean by that?
-The Business refers to the client and your internal team members who won't be involved in detailed data analysis.
-They rely on your analysis to make strategic business decisions.
-Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.
-The Data refers to the relevant data sources that you will clean, process, and use to generate interesting insights for the business.
-
 - The Business refers to the client and your internal team members who won't be involved in detailed data analysis.
 - They rely on your analysis to make strategic business decisions.
 - Importantly, not everyone will have a strong understanding of data. Your job is to communicate your data findings simply and clearly for everyone to understand.
@@ -88,20 +83,13 @@ As a Data Analyst at Accenture, you'll get to work across a range of different c
 However, our clients often want accurate results in a tight timeframe. The pace of work is fast and you'll need to get up to speed on new projects as quickly as possible.
 
 Now you know a bit more about the role, let's get back to the project with Social Buzz.
+
 #### Task for Data Analyst :
 Analysis of sample data sets with visualizations to understand the popularity of different content categories.
 
 In short, the client wanted to see "An analysis of their content categories showing the top 5 categories with the largest popularity".
 
 ### Task 2: Data Cleaning and Modeling
-Often you won't need all these datasets to find what you're looking for.
-So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
-After Analysis we got data sets needed to complete analysis:
-Reaction Score(score is used to quantified the popularity)
-Content ID
-Reaction Types
-Content type
-Category
 - Often you won't need all these datasets to find what you're looking for.
 - So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 - After Analysis we got data sets needed to complete analysis:
@@ -111,9 +99,6 @@ Category
 4. Content type
 5. Category
 #### Data Cleaning:
-removing rows that have values which are missing,
-changing the data type of some values within a column, and
-removing columns which are not relevant to this task.
 Think about how each column might be relevant to the business question you're investigating. If you can't think of why a column may be useful, it may not be worth including it.
 - removing rows that have values which are missing,
 - changing the data type of some values within a column, and
