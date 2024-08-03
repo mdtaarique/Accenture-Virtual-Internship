@@ -90,6 +90,7 @@ Analysis of sample data sets with visualizations to understand the popularity of
 In short, the client wanted to see "An analysis of their content categories showing the top 5 categories with the largest popularity".
 
 ### Task 2: Data Cleaning and Modeling
+Data cleaning is a common and very important task when working with data.
 - Often you won't need all these datasets to find what you're looking for.
 - So, the first step is to use this data model to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
 - After Analysis we got data sets needed to complete analysis:
@@ -104,6 +105,14 @@ Think about how each column might be relevant to the business question you're in
 - changing the data type of some values within a column, and
 - removing columns which are not relevant to this task.
 - Think about how each column might be relevant to the business question you're investigating. If you can't think of why a column may be useful, it may not be worth including it.
+
+  # Create a final data set by merging the three tables together
+  
+ - I use the Reaction table as base table, then first join the relevant columns from Content data set, and then the Reaction Types data set.
+ - I use “VLookUp” formula to merge the three tables together.
+ - The end result to 24,574 rows and 7 columns
+ - ![Screenshot 2024-08-03 215942](https://github.com/user-attachments/assets/266f32c0-f7ce-484f-b4c3-3121a98184bb)
+
 
 After data cleaning as a result we have 3 cleaned data sets i.e., Reaction Types, Reactions and Content.
 
@@ -155,5 +164,12 @@ Looking at the total number of posts by reaction type, heart have the highest po
 Present your powerpoint presentation to the client and deliver the insights of your analysis click here to see the presentation.
 Present your powerpoint presentation to the client and deliver the insights of your analysis [click here to see the presentation.](https://github.com/mdtaarique/Accenture-Virtual-Internship/blob/87b5361111539d862c56eb483cbb8810c650cdad/Task%203-3.Presentation.pdf)
 
-#### Insight:
-In the top 5 categories food is the common theme with 'Healthy Eating' ranking the highest. This is the indication to the audience within the user base. We suggest you could use this insight to create a campaign and work with healthy eating brands to boost user engagement.
+#### Conclusion:
+
+I tackled this task and found the top 5 most popular categories as asked, but I also went one step further.
+
+I found that animals and science are the two most popular categories, suggesting that users like “real-life” and “factual” content.
+
+I also found that food was a common theme amongst popular content and the most popular food category was healthy eating. 
+This could be a signal to show the types of people that are using the platform, and you could use this insight to boost engagement even further. 
+For example, you could run a campaign with content focused on this category or work with healthy eating brands to promote content.
