@@ -35,10 +35,10 @@ The client provided 3 datasets:
 • Content
 • Reactions
 • ReactionTypes
-- Content
-- Reactions
-- ReactionTypes
-- 
+• Content
+• Reactions
+• ReactionTypes
+
 Here is the summary of the contents and columns from the datasets:
 #### Content
  • ID: Unique ID of the content that was uploaded (automatically generated)
